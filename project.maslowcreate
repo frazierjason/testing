@@ -47,7 +47,14 @@
                     "ioValues": []
                 }
             ],
-            "allConnectors": []
+            "allConnectors": [
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 180348,
+                    "ap2ID": 284784
+                }
+            ]
         }
     ]
 }
