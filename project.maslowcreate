@@ -57,6 +57,19 @@
                     ]
                 },
                 {
+                    "atomType": "Extrude",
+                    "name": "Extrude",
+                    "x": 396,
+                    "y": 196,
+                    "uniqueID": 292834,
+                    "ioValues": [
+                        {
+                            "name": "height",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1336,
