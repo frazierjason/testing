@@ -27,6 +27,19 @@
                     ]
                 },
                 {
+                    "atomType": "Extrude",
+                    "name": "Extrude",
+                    "x": 497,
+                    "y": 137,
+                    "uniqueID": 230788,
+                    "ioValues": [
+                        {
+                            "name": "height",
+                            "ioValue": 0.75
+                        }
+                    ]
+                },
+                {
                     "atomType": "Rectangle",
                     "name": "Rectangle",
                     "x": 502,
@@ -51,7 +64,14 @@
                     "ioValues": []
                 }
             ],
-            "allConnectors": []
+            "allConnectors": [
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 180348,
+                    "ap2ID": 230788
+                }
+            ]
         }
     ]
 }
