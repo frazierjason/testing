@@ -35,11 +35,11 @@
                     "ioValues": [
                         {
                             "name": "x length",
-                            "ioValue": 15.9
+                            "ioValue": 0.75
                         },
                         {
                             "name": "y length",
-                            "ioValue": 0.75
+                            "ioValue": 15.9
                         }
                     ]
                 },
