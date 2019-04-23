@@ -40,10 +40,18 @@
                     ]
                 },
                 {
+                    "atomType": "Extrude",
+                    "name": "Extrude",
+                    "x": 417,
+                    "y": 126,
+                    "uniqueID": 284784,
+                    "ioValues": []
+                },
+                {
                     "atomType": "Rectangle",
                     "name": "Rectangle",
-                    "x": 307,
-                    "y": 181,
+                    "x": 502,
+                    "y": 255,
                     "uniqueID": 942069,
                     "ioValues": [
                         {
@@ -55,14 +63,6 @@
                             "ioValue": 0.75
                         }
                     ]
-                },
-                {
-                    "atomType": "Extrude",
-                    "name": "Extrude",
-                    "x": 417,
-                    "y": 126,
-                    "uniqueID": 284784,
-                    "ioValues": []
                 },
                 {
                     "atomType": "Output",
