@@ -12,8 +12,8 @@
                 {
                     "atomType": "Rectangle",
                     "name": "Rectangle",
-                    "x": 257,
-                    "y": 128,
+                    "x": 260,
+                    "y": 125,
                     "uniqueID": 180348,
                     "ioValues": [
                         {
@@ -29,13 +29,13 @@
                 {
                     "atomType": "Extrude",
                     "name": "Extrude",
-                    "x": 416,
-                    "y": 129,
+                    "x": 417,
+                    "y": 126,
                     "uniqueID": 284784,
                     "ioValues": [
                         {
                             "name": "height",
-                            "ioValue": 10
+                            "ioValue": 0.75
                         }
                     ]
                 },
