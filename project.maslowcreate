@@ -18,10 +18,23 @@
                     "ioValues": [
                         {
                             "name": "x length",
-                            "ioValue": 50
+                            "ioValue": 41.125
                         },
                         {
                             "name": "y length",
+                            "ioValue": 15.8
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Extrude",
+                    "name": "Extrude",
+                    "x": 416,
+                    "y": 129,
+                    "uniqueID": 284784,
+                    "ioValues": [
+                        {
+                            "name": "height",
                             "ioValue": 10
                         }
                     ]
