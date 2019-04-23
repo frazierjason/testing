@@ -78,7 +78,7 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": 0
+                            "ioValue": 20.4
                         },
                         {
                             "name": "yDist",
@@ -86,7 +86,7 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 0
+                            "ioValue": 0.3
                         }
                     ]
                 },
@@ -110,6 +110,12 @@
                     "ap2Name": "geometry",
                     "ap1ID": 942069,
                     "ap2ID": 859145
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 859145,
+                    "ap2ID": 781792
                 }
             ]
         }
