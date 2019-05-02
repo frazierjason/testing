@@ -110,6 +110,27 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
+                    "x": 563,
+                    "y": 278,
+                    "uniqueID": 241921,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 0
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
                     "x": 612,
                     "y": 243,
                     "uniqueID": 781792,
@@ -125,27 +146,6 @@
                         {
                             "name": "zDist",
                             "ioValue": 0.3
-                        }
-                    ]
-                },
-                {
-                    "atomType": "Translate",
-                    "name": "Translate",
-                    "x": 595,
-                    "y": 287,
-                    "uniqueID": 241921,
-                    "ioValues": [
-                        {
-                            "name": "xDist",
-                            "ioValue": 0
-                        },
-                        {
-                            "name": "yDist",
-                            "ioValue": 0
-                        },
-                        {
-                            "name": "zDist",
-                            "ioValue": 0
                         }
                     ]
                 },
