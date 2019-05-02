@@ -137,27 +137,6 @@
                     "ioValues": []
                 },
                 {
-                    "atomType": "Translate",
-                    "name": "Translate",
-                    "x": 684,
-                    "y": 276,
-                    "uniqueID": 540949,
-                    "ioValues": [
-                        {
-                            "name": "xDist",
-                            "ioValue": 19.9
-                        },
-                        {
-                            "name": "yDist",
-                            "ioValue": 0
-                        },
-                        {
-                            "name": "zDist",
-                            "ioValue": -0.3
-                        }
-                    ]
-                },
-                {
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1336,
@@ -198,12 +177,6 @@
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "geometry",
-                    "ap1ID": 916866,
-                    "ap2ID": 540949
-                },
-                {
-                    "ap1Name": "geometry",
                     "ap2Name": "number or geometry",
                     "ap1ID": 498995
                 },
@@ -212,12 +185,6 @@
                     "ap2Name": "geometry2",
                     "ap1ID": 781792,
                     "ap2ID": 498995
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "geometry2",
-                    "ap1ID": 540949,
-                    "ap2ID": 152430
                 }
             ]
         }
