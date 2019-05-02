@@ -61,6 +61,23 @@
                     ]
                 },
                 {
+                    "atomType": "Rectangle",
+                    "name": "Rectangle",
+                    "x": 236,
+                    "y": 258,
+                    "uniqueID": 547602,
+                    "ioValues": [
+                        {
+                            "name": "x length",
+                            "ioValue": 0.75
+                        },
+                        {
+                            "name": "y length",
+                            "ioValue": 15.9
+                        }
+                    ]
+                },
+                {
                     "atomType": "Extrude",
                     "name": "Extrude",
                     "x": 504,
