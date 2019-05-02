@@ -46,8 +46,8 @@
                 {
                     "atomType": "Rectangle",
                     "name": "Rectangle",
-                    "x": 236,
-                    "y": 179,
+                    "x": 234,
+                    "y": 187,
                     "uniqueID": 670557,
                     "ioValues": [
                         {
@@ -102,27 +102,6 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 615,
-                    "y": 164,
-                    "uniqueID": 353580,
-                    "ioValues": [
-                        {
-                            "name": "xDist",
-                            "ioValue": 19.9
-                        },
-                        {
-                            "name": "yDist",
-                            "ioValue": 0
-                        },
-                        {
-                            "name": "zDist",
-                            "ioValue": -0.5
-                        }
-                    ]
-                },
-                {
-                    "atomType": "Translate",
-                    "name": "Translate",
                     "x": 722,
                     "y": 135,
                     "uniqueID": 781792,
@@ -138,6 +117,27 @@
                         {
                             "name": "zDist",
                             "ioValue": 0.3
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 722,
+                    "y": 198,
+                    "uniqueID": 353580,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 19.9
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": -0.5
                         }
                     ]
                 },
