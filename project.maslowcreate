@@ -215,21 +215,9 @@
                     "y": 237,
                     "uniqueID": 346523,
                     "ioValues": []
-                },
-                {
-                    "atomType": "Output",
-                    "name": "Output",
-                    "x": 1487,
-                    "y": 182.5,
-                    "ioValues": []
                 }
             ],
             "allConnectors": [
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "number or geometry",
-                    "ap1ID": 180348
-                },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
