@@ -110,27 +110,6 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 592,
-                    "y": 279,
-                    "uniqueID": 540949,
-                    "ioValues": [
-                        {
-                            "name": "xDist",
-                            "ioValue": 0
-                        },
-                        {
-                            "name": "yDist",
-                            "ioValue": 0
-                        },
-                        {
-                            "name": "zDist",
-                            "ioValue": 0
-                        }
-                    ]
-                },
-                {
-                    "atomType": "Translate",
-                    "name": "Translate",
                     "x": 612,
                     "y": 243,
                     "uniqueID": 781792,
@@ -146,6 +125,27 @@
                         {
                             "name": "zDist",
                             "ioValue": 0.3
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 691,
+                    "y": 283,
+                    "uniqueID": 540949,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 0
                         }
                     ]
                 },
@@ -188,6 +188,7 @@
                     "ap1ID": 859145,
                     "ap2ID": 781792
                 },
+                null,
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "number or geometry",
