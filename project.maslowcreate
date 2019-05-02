@@ -129,10 +129,18 @@
                     ]
                 },
                 {
+                    "atomType": "Difference",
+                    "name": "Difference",
+                    "x": 706,
+                    "y": 118,
+                    "uniqueID": 399392,
+                    "ioValues": []
+                },
+                {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 643,
-                    "y": 287,
+                    "x": 728,
+                    "y": 285,
                     "uniqueID": 241921,
                     "ioValues": [
                         {
@@ -148,14 +156,6 @@
                             "ioValue": 0.3
                         }
                     ]
-                },
-                {
-                    "atomType": "Difference",
-                    "name": "Difference",
-                    "x": 706,
-                    "y": 118,
-                    "uniqueID": 399392,
-                    "ioValues": []
                 },
                 {
                     "atomType": "Output",
