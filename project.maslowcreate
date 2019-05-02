@@ -125,7 +125,7 @@
                     "ioValues": [
                         {
                             "name": "height",
-                            "ioValue": 10
+                            "ioValue": 0.3
                         }
                     ]
                 },
@@ -159,7 +159,7 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": 19.9
+                            "ioValue": null
                         },
                         {
                             "name": "yDist",
