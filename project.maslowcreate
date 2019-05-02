@@ -115,16 +115,12 @@
                     "uniqueID": 241921,
                     "ioValues": [
                         {
-                            "name": "xDist",
-                            "ioValue": 0
-                        },
-                        {
                             "name": "yDist",
                             "ioValue": 0
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 0
+                            "ioValue": 0.3
                         }
                     ]
                 },
@@ -175,6 +171,12 @@
                     "ap2Name": "geometry",
                     "ap1ID": 670557,
                     "ap2ID": 916866
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "xDist",
+                    "ap1ID": 916866,
+                    "ap2ID": 241921
                 },
                 {
                     "ap1Name": "geometry",
