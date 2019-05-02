@@ -137,7 +137,7 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": 18.9
+                            "ioValue": 18
                         },
                         {
                             "name": "yDist",
