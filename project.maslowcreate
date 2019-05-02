@@ -129,6 +129,14 @@
                     ]
                 },
                 {
+                    "atomType": "Difference",
+                    "name": "Difference",
+                    "x": 723,
+                    "y": 119,
+                    "uniqueID": 152430,
+                    "ioValues": []
+                },
+                {
                     "atomType": "Translate",
                     "name": "Translate",
                     "x": 684,
@@ -204,6 +212,12 @@
                     "ap2Name": "geometry2",
                     "ap1ID": 781792,
                     "ap2ID": 498995
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry2",
+                    "ap1ID": 540949,
+                    "ap2ID": 152430
                 }
             ]
         }
