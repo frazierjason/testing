@@ -136,6 +136,10 @@
                     "uniqueID": 241921,
                     "ioValues": [
                         {
+                            "name": "xDist",
+                            "ioValue": 19.9
+                        },
+                        {
                             "name": "yDist",
                             "ioValue": 0
                         },
