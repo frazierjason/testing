@@ -268,18 +268,18 @@
                     "ioValues": []
                 },
                 {
-                    "atomType": "Output",
-                    "name": "Output",
-                    "x": 1407.2767086927672,
-                    "y": 205.35368281353684,
-                    "ioValues": []
-                },
-                {
                     "atomType": "Difference",
                     "name": "Difference",
                     "x": 1415.329794293298,
                     "y": 299.9774386197744,
                     "uniqueID": 541800,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1442.5089581950897,
+                    "y": 194.2806901128069,
                     "ioValues": []
                 }
             ],
