@@ -162,6 +162,27 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
+                    "x": 640.220305242203,
+                    "y": 337.2229595222296,
+                    "uniqueID": 584247,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 0
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
                     "x": 722,
                     "y": 135,
                     "uniqueID": 781792,
@@ -198,27 +219,6 @@
                         {
                             "name": "zDist",
                             "ioValue": 0.3
-                        }
-                    ]
-                },
-                {
-                    "atomType": "Translate",
-                    "name": "Translate",
-                    "x": 705.6516257465163,
-                    "y": 347.4220305242203,
-                    "uniqueID": 474295,
-                    "ioValues": [
-                        {
-                            "name": "xDist",
-                            "ioValue": 0
-                        },
-                        {
-                            "name": "yDist",
-                            "ioValue": 0
-                        },
-                        {
-                            "name": "zDist",
-                            "ioValue": 10.2
                         }
                     ]
                 },
@@ -332,9 +332,9 @@
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "xDist",
+                    "ap2Name": "geometry",
                     "ap1ID": 782761,
-                    "ap2ID": 474295
+                    "ap2ID": 584247
                 },
                 {
                     "ap1Name": "geometry",
