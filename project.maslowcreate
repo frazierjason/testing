@@ -204,13 +204,13 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 697,
-                    "y": 267,
-                    "uniqueID": 171830,
+                    "x": 724.7777040477771,
+                    "y": 198.30723291307234,
+                    "uniqueID": 353580,
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": -19.75
+                            "ioValue": 19.75
                         },
                         {
                             "name": "yDist",
@@ -225,13 +225,13 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 860,
-                    "y": 218,
-                    "uniqueID": 353580,
+                    "x": 731.8241539482416,
+                    "y": 268.7717319177173,
+                    "uniqueID": 171830,
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": 19.75
+                            "ioValue": -19.75
                         },
                         {
                             "name": "yDist",
@@ -359,14 +359,14 @@
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry2",
-                    "ap1ID": 171830,
-                    "ap2ID": 346523
+                    "ap1ID": 353580,
+                    "ap2ID": 664959
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry2",
-                    "ap1ID": 353580,
-                    "ap2ID": 664959
+                    "ap1ID": 171830,
+                    "ap2ID": 346523
                 },
                 {
                     "ap1Name": "geometry",
