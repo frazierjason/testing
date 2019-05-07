@@ -176,7 +176,7 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 0
+                            "ioValue": 9.7
                         }
                     ]
                 },
@@ -262,6 +262,14 @@
                 {
                     "atomType": "Difference",
                     "name": "Difference",
+                    "x": 1174.7438619774387,
+                    "y": 315.07697412076976,
+                    "uniqueID": 541800,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Difference",
+                    "name": "Difference",
                     "x": 1250,
                     "y": 237,
                     "uniqueID": 346523,
@@ -335,6 +343,12 @@
                     "ap2Name": "geometry",
                     "ap1ID": 782761,
                     "ap2ID": 584247
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry1",
+                    "ap1ID": 584247,
+                    "ap2ID": 541800
                 },
                 {
                     "ap1Name": "geometry",
