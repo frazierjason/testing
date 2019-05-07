@@ -181,19 +181,6 @@
                     ]
                 },
                 {
-                    "atomType": "Assembly",
-                    "name": "Assembly",
-                    "x": 612.0345056403451,
-                    "y": 347.4220305242203,
-                    "uniqueID": 289746,
-                    "ioValues": [
-                        {
-                            "name": "2D shape 332013",
-                            "ioValue": 10
-                        }
-                    ]
-                },
-                {
                     "atomType": "Translate",
                     "name": "Translate",
                     "x": 722,
