@@ -162,6 +162,27 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
+                    "x": 498.28467153284674,
+                    "y": 347.4220305242203,
+                    "uniqueID": 474295,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 0
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
                     "x": 722,
                     "y": 135,
                     "uniqueID": 781792,
