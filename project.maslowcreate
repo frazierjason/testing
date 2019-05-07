@@ -90,6 +90,19 @@
                         },
                         {
                             "name": "y length",
+                            "ioValue": 16
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Extrude",
+                    "name": "Extrude",
+                    "x": 356.3490378234904,
+                    "y": 332.18978102189783,
+                    "uniqueID": 782761,
+                    "ioValues": [
+                        {
+                            "name": "height",
                             "ioValue": 10
                         }
                     ]
