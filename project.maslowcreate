@@ -262,14 +262,6 @@
                 {
                     "atomType": "Difference",
                     "name": "Difference",
-                    "x": 1174.7438619774387,
-                    "y": 315.07697412076976,
-                    "uniqueID": 541800,
-                    "ioValues": []
-                },
-                {
-                    "atomType": "Difference",
-                    "name": "Difference",
                     "x": 1250,
                     "y": 237,
                     "uniqueID": 346523,
@@ -278,8 +270,16 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1457,
-                    "y": 182.5,
+                    "x": 1407.2767086927672,
+                    "y": 205.35368281353684,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Difference",
+                    "name": "Difference",
+                    "x": 1415.329794293298,
+                    "y": 299.9774386197744,
+                    "uniqueID": 541800,
                     "ioValues": []
                 }
             ],
