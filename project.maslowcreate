@@ -276,6 +276,14 @@
                     "ioValues": []
                 },
                 {
+                    "atomType": "Difference",
+                    "name": "Difference",
+                    "x": 1348.8918380889183,
+                    "y": 283.8712674187127,
+                    "uniqueID": 681344,
+                    "ioValues": []
+                },
+                {
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1471.701393497014,
