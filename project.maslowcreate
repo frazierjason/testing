@@ -254,9 +254,17 @@
                 {
                     "atomType": "Difference",
                     "name": "Difference",
-                    "x": 1034,
-                    "y": 177,
+                    "x": 1024.7551426675514,
+                    "y": 163.07498341074984,
                     "uniqueID": 664959,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Difference",
+                    "name": "Difference",
+                    "x": 1021.7352355673523,
+                    "y": 233.53948241539484,
+                    "uniqueID": 346523,
                     "ioValues": []
                 },
                 {
@@ -275,14 +283,6 @@
                             "ioValue": 10
                         }
                     ]
-                },
-                {
-                    "atomType": "Difference",
-                    "name": "Difference",
-                    "x": 1054.9542136695422,
-                    "y": 249.64565361645654,
-                    "uniqueID": 346523,
-                    "ioValues": []
                 },
                 {
                     "atomType": "Gcode",
