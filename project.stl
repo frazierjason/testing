@@ -27,6 +27,20 @@ vertex 20 -8 -0.375
 vertex 0.375 -8 -0.375
 endloop
 endfacet
+facet normal 0 0 -1
+outer loop
+vertex -0.375 8 -0.375
+vertex 0.375 8 -0.375
+vertex 0.375 -8 -0.375
+endloop
+endfacet
+facet normal 0 0 -1
+outer loop
+vertex -0.375 8 -0.375
+vertex 0.375 -8 -0.375
+vertex -0.375 -8 -0.375
+endloop
+endfacet
 facet normal 0 0 1
 outer loop
 vertex -19.375 8 0.375
@@ -146,6 +160,34 @@ vertex 19.375 -8 0.375
 vertex 0.375 -8 0.375
 endloop
 endfacet
+facet normal 0 -1 0
+outer loop
+vertex 0.375 -8 0.00703
+vertex -0.375 -8 -0.00703
+vertex -0.375 -8 -0.375
+endloop
+endfacet
+facet normal 0 -1 0
+outer loop
+vertex 0.375 -8 0.00703
+vertex -0.375 -8 -0.375
+vertex 0.375 -8 -0.375
+endloop
+endfacet
+facet normal 0 -1 0
+outer loop
+vertex -0.375 -8 -0.00703
+vertex 0.375 -8 0.00703
+vertex 0.375 -8 0.15
+endloop
+endfacet
+facet normal 0 -1 0
+outer loop
+vertex -0.375 -8 -0.00703
+vertex 0.375 -8 0.15
+vertex -0.375 -8 0.15
+endloop
+endfacet
 facet normal 0 1 0
 outer loop
 vertex -8 8 0.15
@@ -237,6 +279,34 @@ vertex 0.375 8 0.15
 vertex 0.375 8 0.375
 endloop
 endfacet
+facet normal 0 1 0
+outer loop
+vertex 0.375 8 -0.00703
+vertex 0.375 8 -0.375
+vertex -0.375 8 -0.375
+endloop
+endfacet
+facet normal 0 1 0
+outer loop
+vertex 0.375 8 -0.00703
+vertex -0.375 8 -0.375
+vertex -0.375 8 0.00703
+endloop
+endfacet
+facet normal 0 1 0
+outer loop
+vertex 0.375 8 0.15
+vertex 0.375 8 -0.00703
+vertex -0.375 8 0.00703
+endloop
+endfacet
+facet normal 0 1 0
+outer loop
+vertex 0.375 8 0.15
+vertex -0.375 8 0.00703
+vertex -0.375 8 0.15
+endloop
+endfacet
 facet normal 0 0 1
 outer loop
 vertex -20 8 0.15
@@ -263,6 +333,20 @@ outer loop
 vertex 20 8 0.15
 vertex 19.375 -8 0.15
 vertex 20 -8 0.15
+endloop
+endfacet
+facet normal 0 0 1
+outer loop
+vertex 0.375 8 0.15
+vertex -0.375 8 0.15
+vertex -0.375 -8 0.15
+endloop
+endfacet
+facet normal 0 0 1
+outer loop
+vertex 0.375 8 0.15
+vertex -0.375 -8 0.15
+vertex 0.375 -8 0.15
 endloop
 endfacet
 facet normal 1 0 0
@@ -389,62 +473,6 @@ outer loop
 vertex -20 -3.2 0.15
 vertex -20 8 0.15
 vertex -20 8 -0.375
-endloop
-endfacet
-facet normal 1 0 0
-outer loop
-vertex -0.375 -8 0.15
-vertex -0.375 -8 -0.375
-vertex -0.375 -7.26 -0.375
-endloop
-endfacet
-facet normal 1 0 0
-outer loop
-vertex -0.375 -8 0.15
-vertex -0.375 -7.26 -0.375
-vertex -0.375 -7.68 0.15
-endloop
-endfacet
-facet normal 1 0 0
-outer loop
-vertex -0.375 -7.68 0.15
-vertex -0.375 -7.26 -0.375
-vertex -0.375 8 -0.375
-endloop
-endfacet
-facet normal 1 0 0
-outer loop
-vertex -0.375 -7.68 0.15
-vertex -0.375 8 -0.375
-vertex -0.375 8 0.15
-endloop
-endfacet
-facet normal -1 0 0
-outer loop
-vertex 0.375 8 0.15
-vertex 0.375 8 -0.375
-vertex 0.375 7.26 -0.375
-endloop
-endfacet
-facet normal -1 0 0
-outer loop
-vertex 0.375 8 0.15
-vertex 0.375 7.26 -0.375
-vertex 0.375 7.68 0.15
-endloop
-endfacet
-facet normal -1 0 0
-outer loop
-vertex 0.375 7.68 0.15
-vertex 0.375 7.26 -0.375
-vertex 0.375 -8 -0.375
-endloop
-endfacet
-facet normal -1 0 0
-outer loop
-vertex 0.375 7.68 0.15
-vertex 0.375 -8 -0.375
-vertex 0.375 -8 0.15
 endloop
 endfacet
 endsolid JSxCAD
