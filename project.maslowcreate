@@ -338,8 +338,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 648.2733908427339,
-                    "y": 306.01725282017253,
+                    "x": 791.2156602521567,
+                    "y": 278.8380889183809,
                     "uniqueID": 222076,
                     "ioValues": [
                         {
@@ -348,11 +348,11 @@
                         },
                         {
                             "name": "yDist",
-                            "ioValue": 0
+                            "ioValue": 20
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 0
+                            "ioValue": 10.375
                         }
                     ]
                 },
@@ -448,6 +448,12 @@
                     "ap2Name": "geometry2",
                     "ap1ID": 353580,
                     "ap2ID": 664959
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 622860,
+                    "ap2ID": 222076
                 },
                 {
                     "ap1Name": "geometry",
