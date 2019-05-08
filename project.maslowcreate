@@ -225,8 +225,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 738.8706038487061,
-                    "y": 347.4220305242203,
+                    "x": 747.9303251493033,
+                    "y": 345.2760451227605,
                     "uniqueID": 584247,
                     "ioValues": [
                         {
@@ -273,14 +273,6 @@
                     "x": 1250,
                     "y": 237,
                     "uniqueID": 346523,
-                    "ioValues": []
-                },
-                {
-                    "atomType": "Difference",
-                    "name": "Difference",
-                    "x": 1348.8918380889183,
-                    "y": 283.8712674187127,
-                    "uniqueID": 681344,
                     "ioValues": []
                 },
                 {
