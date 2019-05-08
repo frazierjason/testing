@@ -252,22 +252,6 @@
                     "ioValues": []
                 },
                 {
-                    "atomType": "Difference",
-                    "name": "Difference",
-                    "x": 1024.7551426675514,
-                    "y": 163.07498341074984,
-                    "uniqueID": 664959,
-                    "ioValues": []
-                },
-                {
-                    "atomType": "Difference",
-                    "name": "Difference",
-                    "x": 1021.7352355673523,
-                    "y": 233.53948241539484,
-                    "uniqueID": 346523,
-                    "ioValues": []
-                },
-                {
                     "atomType": "Assembly",
                     "name": "Assembly",
                     "x": 1003.615792966158,
@@ -285,10 +269,26 @@
                     ]
                 },
                 {
+                    "atomType": "Difference",
+                    "name": "Difference",
+                    "x": 1097.2329130723292,
+                    "y": 237.56602521566026,
+                    "uniqueID": 346523,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Difference",
+                    "name": "Difference",
+                    "x": 1130.451891174519,
+                    "y": 140.92899800928998,
+                    "uniqueID": 664959,
+                    "ioValues": []
+                },
+                {
                     "atomType": "Gcode",
                     "name": "Gcode",
-                    "x": 1223.062375580624,
-                    "y": 142.9422694094227,
+                    "x": 1320.7060384870604,
+                    "y": 98.65029860650299,
                     "uniqueID": 228642,
                     "ioValues": [
                         {
@@ -402,14 +402,14 @@
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "geometry1",
-                    "ap1ID": 664959,
-                    "ap2ID": 346523
+                    "ap2Name": "number or geometry",
+                    "ap1ID": 507799
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "number or geometry",
-                    "ap1ID": 507799
+                    "ap2Name": "geometry1",
+                    "ap1ID": 664959,
+                    "ap2ID": 346523
                 }
             ],
             "fileTypeVersion": 1
