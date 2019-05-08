@@ -147,6 +147,19 @@
                     ]
                 },
                 {
+                    "atomType": "Extrude",
+                    "name": "Extrude",
+                    "x": 314.0703384207034,
+                    "y": 268.7717319177173,
+                    "uniqueID": 782761,
+                    "ioValues": [
+                        {
+                            "name": "height",
+                            "ioValue": 20
+                        }
+                    ]
+                },
+                {
                     "atomType": "Difference",
                     "name": "Difference",
                     "x": 415.7405441274054,
@@ -218,25 +231,33 @@
                     ]
                 },
                 {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 415.7405441274054,
+                    "y": 268.7717319177173,
+                    "uniqueID": 584247,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 10.375
+                        }
+                    ]
+                },
+                {
                     "atomType": "Difference",
                     "name": "Difference",
                     "x": 544.5899137358991,
                     "y": 78.51758460517586,
                     "uniqueID": 664959,
                     "ioValues": []
-                },
-                {
-                    "atomType": "Extrude",
-                    "name": "Extrude",
-                    "x": 490.23158593231585,
-                    "y": 317,
-                    "uniqueID": 782761,
-                    "ioValues": [
-                        {
-                            "name": "height",
-                            "ioValue": 20
-                        }
-                    ]
                 },
                 {
                     "atomType": "Difference",
@@ -264,27 +285,6 @@
                         {
                             "name": "2D shape 673902",
                             "ioValue": 10
-                        }
-                    ]
-                },
-                {
-                    "atomType": "Translate",
-                    "name": "Translate",
-                    "x": 795.242203052422,
-                    "y": 317,
-                    "uniqueID": 584247,
-                    "ioValues": [
-                        {
-                            "name": "xDist",
-                            "ioValue": 0
-                        },
-                        {
-                            "name": "yDist",
-                            "ioValue": 0
-                        },
-                        {
-                            "name": "zDist",
-                            "ioValue": 10.375
                         }
                     ]
                 },
@@ -353,6 +353,12 @@
                 },
                 {
                     "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 782761,
+                    "ap2ID": 584247
+                },
+                {
+                    "ap1Name": "geometry",
                     "ap2Name": "geometry1",
                     "ap1ID": 498995,
                     "ap2ID": 664959
@@ -377,15 +383,15 @@
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "geometry1",
-                    "ap1ID": 664959,
-                    "ap2ID": 856659
+                    "ap2Name": "2D shape 501726",
+                    "ap1ID": 584247,
+                    "ap2ID": 507799
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "geometry",
-                    "ap1ID": 782761,
-                    "ap2ID": 584247
+                    "ap2Name": "geometry1",
+                    "ap1ID": 664959,
+                    "ap2ID": 856659
                 },
                 {
                     "ap1Name": "geometry",
@@ -397,12 +403,6 @@
                     "ap1Name": "geometry",
                     "ap2Name": "number or geometry",
                     "ap1ID": 507799
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "2D shape 501726",
-                    "ap1ID": 584247,
-                    "ap2ID": 507799
                 }
             ],
             "fileTypeVersion": 1
