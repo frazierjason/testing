@@ -277,21 +277,12 @@
                     "ioValues": []
                 },
                 {
-                    "atomType": "Gcode",
-                    "name": "Gcode",
-                    "x": 1320.7060384870604,
-                    "y": 98.65029860650299,
-                    "uniqueID": 228642,
-                    "ioValues": [
-                        {
-                            "name": "tool size",
-                            "ioValue": 5.35
-                        },
-                        {
-                            "name": "passes",
-                            "ioValue": 6
-                        }
-                    ]
+                    "atomType": "Difference",
+                    "name": "Difference",
+                    "x": 1151.5912408759125,
+                    "y": 174.14797611147978,
+                    "uniqueID": 856659,
+                    "ioValues": []
                 },
                 {
                     "atomType": "Output",
@@ -390,12 +381,6 @@
                     "ap1Name": "geometry",
                     "ap2Name": "number or geometry",
                     "ap1ID": 507799
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "geometry",
-                    "ap1ID": 664959,
-                    "ap2ID": 228642
                 }
             ],
             "fileTypeVersion": 1
