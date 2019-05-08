@@ -271,10 +271,6 @@
                             "ioValue": 10
                         },
                         {
-                            "name": "2D shape 582028",
-                            "ioValue": 10
-                        },
-                        {
                             "name": "2D shape 853008",
                             "ioValue": 10
                         }
@@ -283,16 +279,16 @@
                 {
                     "atomType": "Difference",
                     "name": "Difference",
-                    "x": 1050.9276708692767,
-                    "y": 261.7252820172528,
+                    "x": 1054.9542136695422,
+                    "y": 249.64565361645654,
                     "uniqueID": 346523,
                     "ioValues": []
                 },
                 {
                     "atomType": "Gcode",
                     "name": "Gcode",
-                    "x": 1134.4784339747844,
-                    "y": 197.30059721300597,
+                    "x": 1223.062375580624,
+                    "y": 142.9422694094227,
                     "uniqueID": 228642,
                     "ioValues": [
                         {
@@ -414,12 +410,6 @@
                     "ap1Name": "geometry",
                     "ap2Name": "number or geometry",
                     "ap1ID": 507799
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "2D shape 582028",
-                    "ap1ID": 346523,
-                    "ap2ID": 507799
                 }
             ],
             "fileTypeVersion": 1
