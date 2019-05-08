@@ -226,7 +226,7 @@
                     "atomType": "Translate",
                     "name": "Translate",
                     "x": 738.8706038487061,
-                    "y": 348.29595222295956,
+                    "y": 347.4220305242203,
                     "uniqueID": 584247,
                     "ioValues": [
                         {
@@ -262,24 +262,24 @@
                 {
                     "atomType": "Difference",
                     "name": "Difference",
+                    "x": 1163.6708692767088,
+                    "y": 334.2030524220305,
+                    "uniqueID": 541800,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Difference",
+                    "name": "Difference",
                     "x": 1250,
                     "y": 237,
                     "uniqueID": 346523,
                     "ioValues": []
                 },
                 {
-                    "atomType": "Difference",
-                    "name": "Difference",
-                    "x": 1415.329794293298,
-                    "y": 299.9774386197744,
-                    "uniqueID": 541800,
-                    "ioValues": []
-                },
-                {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1457,
-                    "y": 193,
+                    "x": 1471.701393497014,
+                    "y": 186.22760451227606,
                     "ioValues": []
                 }
             ],
@@ -383,7 +383,7 @@
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "number or geometry",
-                    "ap1ID": 346523
+                    "ap1ID": 541800
                 }
             ],
             "fileTypeVersion": 1
