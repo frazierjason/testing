@@ -271,17 +271,17 @@
                 {
                     "atomType": "Difference",
                     "name": "Difference",
-                    "x": 1130.451891174519,
-                    "y": 140.92899800928998,
-                    "uniqueID": 664959,
+                    "x": 1088.173191771732,
+                    "y": 226.49303251493032,
+                    "uniqueID": 856659,
                     "ioValues": []
                 },
                 {
                     "atomType": "Difference",
                     "name": "Difference",
-                    "x": 1151.5912408759125,
-                    "y": 174.14797611147978,
-                    "uniqueID": 856659,
+                    "x": 1130.451891174519,
+                    "y": 140.92899800928998,
+                    "uniqueID": 664959,
                     "ioValues": []
                 },
                 {
@@ -367,6 +367,12 @@
                 },
                 {
                     "ap1Name": "geometry",
+                    "ap2Name": "geometry2",
+                    "ap1ID": 171830,
+                    "ap2ID": 856659
+                },
+                {
+                    "ap1Name": "geometry",
                     "ap2Name": "2D shape 501726",
                     "ap1ID": 584247,
                     "ap2ID": 507799
@@ -381,6 +387,12 @@
                     "ap1Name": "geometry",
                     "ap2Name": "number or geometry",
                     "ap1ID": 507799
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry1",
+                    "ap1ID": 664959,
+                    "ap2ID": 856659
                 }
             ],
             "fileTypeVersion": 1
