@@ -225,8 +225,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 785.1758460517585,
-                    "y": 317,
+                    "x": 788.1957531519575,
+                    "y": 315.07697412076976,
                     "uniqueID": 584247,
                     "ioValues": [
                         {
@@ -239,7 +239,7 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 10.45
+                            "ioValue": 10.375
                         }
                     ]
                 },
@@ -252,19 +252,32 @@
                     "ioValues": []
                 },
                 {
+                    "atomType": "Assembly",
+                    "name": "Assembly",
+                    "x": 994.5560716655608,
+                    "y": 318.09688122096884,
+                    "uniqueID": 507799,
+                    "ioValues": [
+                        {
+                            "name": "2D shape 501726",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "2D shape 582028",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "2D shape 853008",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
                     "atomType": "Difference",
                     "name": "Difference",
                     "x": 1034,
                     "y": 177,
                     "uniqueID": 664959,
-                    "ioValues": []
-                },
-                {
-                    "atomType": "Tag",
-                    "name": "Add Tag",
-                    "x": 1006.635700066357,
-                    "y": 317,
-                    "uniqueID": 885800,
                     "ioValues": []
                 },
                 {
@@ -276,18 +289,10 @@
                     "ioValues": []
                 },
                 {
-                    "atomType": "Difference",
-                    "name": "Difference",
-                    "x": 1177.7637690776378,
-                    "y": 317,
-                    "uniqueID": 541800,
-                    "ioValues": []
-                },
-                {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1518.0066357000665,
-                    "y": 150.99535500995356,
+                    "x": 1457.608493696085,
+                    "y": 181.19442601194427,
                     "ioValues": []
                 }
             ],
@@ -372,9 +377,9 @@
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "geometry",
+                    "ap2Name": "2D shape 501726",
                     "ap1ID": 584247,
-                    "ap2ID": 885800
+                    "ap2ID": 507799
                 },
                 {
                     "ap1Name": "geometry",
@@ -384,26 +389,20 @@
                 },
                 {
                     "ap1Name": "geometry",
+                    "ap2Name": "number or geometry",
+                    "ap1ID": 507799
+                },
+                {
+                    "ap1Name": "geometry",
                     "ap2Name": "geometry1",
                     "ap1ID": 664959,
                     "ap2ID": 346523
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "geometry2",
-                    "ap1ID": 885800,
-                    "ap2ID": 541800
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "geometry1",
+                    "ap2Name": "2D shape 582028",
                     "ap1ID": 346523,
-                    "ap2ID": 541800
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "number or geometry",
-                    "ap1ID": 541800
+                    "ap2ID": 507799
                 }
             ],
             "fileTypeVersion": 1
