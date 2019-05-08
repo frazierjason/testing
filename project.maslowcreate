@@ -265,6 +265,10 @@
                         {
                             "name": "2D shape 853008",
                             "ioValue": 10
+                        },
+                        {
+                            "name": "2D shape 673902",
+                            "ioValue": 10
                         }
                     ]
                 },
@@ -387,6 +391,12 @@
                     "ap1Name": "geometry",
                     "ap2Name": "number or geometry",
                     "ap1ID": 507799
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "2D shape 853008",
+                    "ap1ID": 856659,
+                    "ap2ID": 507799
                 },
                 {
                     "ap1Name": "geometry",
