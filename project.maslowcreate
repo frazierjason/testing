@@ -226,7 +226,7 @@
                     "atomType": "Translate",
                     "name": "Translate",
                     "x": 795.242203052422,
-                    "y": 318.09688122096884,
+                    "y": 317,
                     "uniqueID": 584247,
                     "ioValues": [
                         {
@@ -263,7 +263,7 @@
                     "atomType": "Assembly",
                     "name": "Assembly",
                     "x": 1003.615792966158,
-                    "y": 322.12342402123426,
+                    "y": 317,
                     "uniqueID": 507799,
                     "ioValues": [
                         {
@@ -292,7 +292,7 @@
                     "atomType": "Gcode",
                     "name": "Gcode",
                     "x": 1216.0159256801594,
-                    "y": 319.1035169210352,
+                    "y": 317,
                     "uniqueID": 138353,
                     "ioValues": [
                         {
