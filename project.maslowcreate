@@ -12,8 +12,8 @@
                 {
                     "atomType": "Rectangle",
                     "name": "Rectangle",
-                    "x": 235,
-                    "y": 70,
+                    "x": 235.55275381552755,
+                    "y": 26.17252820172528,
                     "uniqueID": 180348,
                     "ioValues": [
                         {
@@ -61,6 +61,19 @@
                     ]
                 },
                 {
+                    "atomType": "Extrude",
+                    "name": "Extrude",
+                    "x": 319.1035169210352,
+                    "y": 25.165892501658927,
+                    "uniqueID": 230788,
+                    "ioValues": [
+                        {
+                            "name": "height",
+                            "ioValue": 0.75
+                        }
+                    ]
+                },
+                {
                     "atomType": "Rectangle",
                     "name": "Rectangle",
                     "x": 233.53948241539484,
@@ -95,17 +108,12 @@
                     ]
                 },
                 {
-                    "atomType": "Extrude",
-                    "name": "Extrude",
-                    "x": 504,
-                    "y": 66,
-                    "uniqueID": 230788,
-                    "ioValues": [
-                        {
-                            "name": "height",
-                            "ioValue": 0.75
-                        }
-                    ]
+                    "atomType": "Difference",
+                    "name": "Difference",
+                    "x": 415.7405441274054,
+                    "y": 27.17916390179164,
+                    "uniqueID": 498995,
+                    "ioValues": []
                 },
                 {
                     "atomType": "Extrude",
@@ -244,14 +252,6 @@
                     ]
                 },
                 {
-                    "atomType": "Difference",
-                    "name": "Difference",
-                    "x": 1002,
-                    "y": 85,
-                    "uniqueID": 498995,
-                    "ioValues": []
-                },
-                {
                     "atomType": "Assembly",
                     "name": "Assembly",
                     "x": 1003.615792966158,
@@ -317,6 +317,12 @@
                 },
                 {
                     "ap1Name": "geometry",
+                    "ap2Name": "geometry1",
+                    "ap1ID": 230788,
+                    "ap2ID": 498995
+                },
+                {
+                    "ap1Name": "geometry",
                     "ap2Name": "geometry",
                     "ap1ID": 547602,
                     "ap2ID": 796758
@@ -330,8 +336,8 @@
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry1",
-                    "ap1ID": 230788,
-                    "ap2ID": 498995
+                    "ap1ID": 498995,
+                    "ap2ID": 664959
                 },
                 {
                     "ap1Name": "geometry",
@@ -380,12 +386,6 @@
                     "ap2Name": "2D shape 501726",
                     "ap1ID": 584247,
                     "ap2ID": 507799
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "geometry1",
-                    "ap1ID": 498995,
-                    "ap2ID": 664959
                 },
                 {
                     "ap1Name": "geometry",
