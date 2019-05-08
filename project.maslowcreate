@@ -289,6 +289,23 @@
                     "ioValues": []
                 },
                 {
+                    "atomType": "Gcode",
+                    "name": "Gcode",
+                    "x": 1134.4784339747844,
+                    "y": 197.30059721300597,
+                    "uniqueID": 228642,
+                    "ioValues": [
+                        {
+                            "name": "tool size",
+                            "ioValue": 5.35
+                        },
+                        {
+                            "name": "passes",
+                            "ioValue": 6
+                        }
+                    ]
+                },
+                {
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1457,
