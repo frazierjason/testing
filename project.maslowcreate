@@ -61,6 +61,23 @@
                     ]
                 },
                 {
+                    "atomType": "Rectangle",
+                    "name": "Rectangle",
+                    "x": 235.55275381552755,
+                    "y": 204.34704711347047,
+                    "uniqueID": 547602,
+                    "ioValues": [
+                        {
+                            "name": "x length",
+                            "ioValue": 0.75
+                        },
+                        {
+                            "name": "y length",
+                            "ioValue": 16
+                        }
+                    ]
+                },
+                {
                     "atomType": "Extrude",
                     "name": "Extrude",
                     "x": 319.1035169210352,
@@ -102,9 +119,9 @@
                 {
                     "atomType": "Rectangle",
                     "name": "Rectangle",
-                    "x": 233.53948241539484,
-                    "y": 262.73191771731916,
-                    "uniqueID": 547602,
+                    "x": 208.3735899137359,
+                    "y": 312.0570670205707,
+                    "uniqueID": 489623,
                     "ioValues": [
                         {
                             "name": "x length",
@@ -117,19 +134,15 @@
                     ]
                 },
                 {
-                    "atomType": "Rectangle",
-                    "name": "Rectangle",
-                    "x": 208.3735899137359,
-                    "y": 312.0570670205707,
-                    "uniqueID": 489623,
+                    "atomType": "Extrude",
+                    "name": "Extrude",
+                    "x": 317.09024552090244,
+                    "y": 202.33377571333776,
+                    "uniqueID": 796758,
                     "ioValues": [
                         {
-                            "name": "x length",
-                            "ioValue": 0.75
-                        },
-                        {
-                            "name": "y length",
-                            "ioValue": 16
+                            "name": "height",
+                            "ioValue": 0.3
                         }
                     ]
                 },
@@ -194,19 +207,6 @@
                 {
                     "atomType": "Extrude",
                     "name": "Extrude",
-                    "x": 492,
-                    "y": 280,
-                    "uniqueID": 796758,
-                    "ioValues": [
-                        {
-                            "name": "height",
-                            "ioValue": 0.3
-                        }
-                    ]
-                },
-                {
-                    "atomType": "Extrude",
-                    "name": "Extrude",
                     "x": 490.23158593231585,
                     "y": 317,
                     "uniqueID": 782761,
@@ -216,6 +216,14 @@
                             "ioValue": 20
                         }
                     ]
+                },
+                {
+                    "atomType": "Difference",
+                    "name": "Difference",
+                    "x": 638.2070338420704,
+                    "y": 141.93563370935635,
+                    "uniqueID": 856659,
+                    "ioValues": []
                 },
                 {
                     "atomType": "Translate",
@@ -281,14 +289,6 @@
                     ]
                 },
                 {
-                    "atomType": "Difference",
-                    "name": "Difference",
-                    "x": 1088.173191771732,
-                    "y": 226.49303251493032,
-                    "uniqueID": 856659,
-                    "ioValues": []
-                },
-                {
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1453.5819508958195,
@@ -317,6 +317,12 @@
                 },
                 {
                     "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 547602,
+                    "ap2ID": 796758
+                },
+                {
+                    "ap1Name": "geometry",
                     "ap2Name": "geometry1",
                     "ap1ID": 230788,
                     "ap2ID": 498995
@@ -336,14 +342,14 @@
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
-                    "ap1ID": 547602,
-                    "ap2ID": 796758
+                    "ap1ID": 489623,
+                    "ap2ID": 782761
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
-                    "ap1ID": 489623,
-                    "ap2ID": 782761
+                    "ap1ID": 796758,
+                    "ap2ID": 171830
                 },
                 {
                     "ap1Name": "geometry",
@@ -372,14 +378,14 @@
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
-                    "ap1ID": 796758,
-                    "ap2ID": 171830
+                    "ap1ID": 782761,
+                    "ap2ID": 584247
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "geometry",
-                    "ap1ID": 782761,
-                    "ap2ID": 584247
+                    "ap2Name": "2D shape 853008",
+                    "ap1ID": 856659,
+                    "ap2ID": 507799
                 },
                 {
                     "ap1Name": "geometry",
@@ -397,12 +403,6 @@
                     "ap1Name": "geometry",
                     "ap2Name": "number or geometry",
                     "ap1ID": 507799
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "2D shape 853008",
-                    "ap1ID": 856659,
-                    "ap2ID": 507799
                 }
             ],
             "fileTypeVersion": 1
