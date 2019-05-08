@@ -299,6 +299,27 @@
                     ]
                 },
                 {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 419.7670869276709,
+                    "y": 322.12342402123426,
+                    "uniqueID": 222076,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 0
+                        }
+                    ]
+                },
+                {
                     "atomType": "Difference",
                     "name": "Difference",
                     "x": 544.5899137358991,
@@ -428,6 +449,7 @@
                     "ap1ID": 353580,
                     "ap2ID": 664959
                 },
+                null,
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry2",
