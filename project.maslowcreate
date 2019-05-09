@@ -416,6 +416,23 @@
                     ]
                 },
                 {
+                    "atomType": "Gcode",
+                    "name": "Gcode",
+                    "x": 1089.1798274717983,
+                    "y": 122.80955540809556,
+                    "uniqueID": 650893,
+                    "ioValues": [
+                        {
+                            "name": "tool size",
+                            "ioValue": 5.35
+                        },
+                        {
+                            "name": "passes",
+                            "ioValue": 6
+                        }
+                    ]
+                },
+                {
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1457,
@@ -537,6 +554,12 @@
                     "ap2Name": "2D shape 853008",
                     "ap1ID": 856659,
                     "ap2ID": 507799
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 507799,
+                    "ap2ID": 650893
                 },
                 {
                     "ap1Name": "geometry",
