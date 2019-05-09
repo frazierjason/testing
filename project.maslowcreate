@@ -369,11 +369,11 @@
                     "ioValues": [
                         {
                             "name": "x length",
-                            "ioValue": 10
+                            "ioValue": 0.75
                         },
                         {
                             "name": "y length",
-                            "ioValue": 10
+                            "ioValue": 16
                         }
                     ]
                 },
@@ -523,6 +523,12 @@
                     "ap2Name": "2D shape 673902",
                     "ap1ID": 222076,
                     "ap2ID": 507799
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 532510,
+                    "ap2ID": 144666
                 }
             ],
             "fileTypeVersion": 1
