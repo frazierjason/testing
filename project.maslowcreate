@@ -181,6 +181,23 @@
                     ]
                 },
                 {
+                    "atomType": "Rectangle",
+                    "name": "Rectangle",
+                    "x": 246.62574651625746,
+                    "y": 318.09688122096884,
+                    "uniqueID": 532510,
+                    "ioValues": [
+                        {
+                            "name": "x length",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "y length",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
                     "atomType": "Extrude",
                     "name": "Extrude",
                     "x": 314.0703384207034,
@@ -268,7 +285,7 @@
                     "atomType": "Extrude",
                     "name": "Extrude",
                     "x": 360.3755806237558,
-                    "y": 319.1035169210352,
+                    "y": 317,
                     "uniqueID": 622860,
                     "ioValues": [
                         {
@@ -429,6 +446,7 @@
                     "ap1ID": 229410,
                     "ap2ID": 622860
                 },
+                null,
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
