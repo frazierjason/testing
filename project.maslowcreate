@@ -181,23 +181,6 @@
                     ]
                 },
                 {
-                    "atomType": "Rectangle",
-                    "name": "Rectangle",
-                    "x": 246.62574651625746,
-                    "y": 318.09688122096884,
-                    "uniqueID": 532510,
-                    "ioValues": [
-                        {
-                            "name": "x length",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "y length",
-                            "ioValue": 10
-                        }
-                    ]
-                },
-                {
                     "atomType": "Extrude",
                     "name": "Extrude",
                     "x": 314.0703384207034,
@@ -378,6 +361,36 @@
                     ]
                 },
                 {
+                    "atomType": "Rectangle",
+                    "name": "Rectangle",
+                    "x": 871.7465162574651,
+                    "y": 278.8380889183809,
+                    "uniqueID": 532510,
+                    "ioValues": [
+                        {
+                            "name": "x length",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "y length",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Extrude",
+                    "name": "Extrude",
+                    "x": 971.4034505640345,
+                    "y": 262.73191771731916,
+                    "uniqueID": 144666,
+                    "ioValues": [
+                        {
+                            "name": "height",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1457,
@@ -446,7 +459,6 @@
                     "ap1ID": 229410,
                     "ap2ID": 622860
                 },
-                null,
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
