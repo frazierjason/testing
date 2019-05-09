@@ -340,6 +340,10 @@
                         {
                             "name": "2D shape 193857",
                             "ioValue": 10
+                        },
+                        {
+                            "name": "2D shape 766884",
+                            "ioValue": 10
                         }
                     ]
                 },
@@ -411,7 +415,7 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 0
+                            "ioValue": 20
                         }
                     ]
                 },
@@ -634,6 +638,12 @@
                     "ap2Name": "geometry",
                     "ap1ID": 129563,
                     "ap2ID": 748762
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "2D shape 193857",
+                    "ap1ID": 748762,
+                    "ap2ID": 507799
                 },
                 {
                     "ap1Name": "geometry",
