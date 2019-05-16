@@ -432,6 +432,13 @@
                     ]
                 },
                 {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 930,
+                    "y": 199.5,
+                    "ioValues": []
+                },
+                {
                     "atomType": "Gcode",
                     "name": "Gcode",
                     "x": 960,
@@ -481,13 +488,6 @@
                             "ioValue": 20
                         }
                     ]
-                },
-                {
-                    "atomType": "Output",
-                    "name": "Output",
-                    "x": 930,
-                    "y": 358,
-                    "ioValues": []
                 }
             ],
             "allConnectors": [
