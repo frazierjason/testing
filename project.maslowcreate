@@ -333,7 +333,7 @@
                     "ioValues": [
                         {
                             "name": "height",
-                            "ioValue": 20
+                            "ioValue": 20.75
                         }
                     ]
                 },
@@ -365,11 +365,11 @@
                             "ioValue": 10
                         },
                         {
-                            "name": "3D shape 357700",
+                            "name": "3D shape 123074",
                             "ioValue": 10
                         },
                         {
-                            "name": "3D shape 123074",
+                            "name": "3D shape 776232",
                             "ioValue": 10
                         }
                     ]
@@ -501,7 +501,7 @@
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "3D shape 357700",
+                    "ap2Name": "3D shape 123074",
                     "ap1ID": 227431,
                     "ap2ID": 542609
                 }
