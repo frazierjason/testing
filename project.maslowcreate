@@ -2,26 +2,6 @@
     "molecules": [
         {
             "atomType": "Molecule",
-            "name": "Molecule",
-            "x": 668,
-            "y": 73,
-            "uniqueID": 132459,
-            "ioValues": [],
-            "topLevel": false,
-            "allAtoms": [
-                {
-                    "atomType": "Output",
-                    "name": "Output",
-                    "x": 1316,
-                    "y": 164,
-                    "ioValues": []
-                }
-            ],
-            "allConnectors": [],
-            "fileTypeVersion": 1
-        },
-        {
-            "atomType": "Molecule",
             "name": "testing",
             "x": 0,
             "y": 0,
@@ -393,14 +373,6 @@
                             "ioValue": 10
                         }
                     ]
-                },
-                {
-                    "atomType": "Molecule",
-                    "name": "Molecule",
-                    "x": 668,
-                    "y": 73,
-                    "uniqueID": 132459,
-                    "ioValues": []
                 },
                 {
                     "atomType": "Translate",
