@@ -278,7 +278,7 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": 0
+                            "ioValue": 19.65
                         },
                         {
                             "name": "yDist",
@@ -287,6 +287,19 @@
                         {
                             "name": "zDist",
                             "ioValue": 0
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Extrude",
+                    "name": "Extrude",
+                    "x": 422,
+                    "y": 226,
+                    "uniqueID": 365015,
+                    "ioValues": [
+                        {
+                            "name": "height",
+                            "ioValue": 10
                         }
                     ]
                 },
@@ -358,6 +371,12 @@
                     "ap2Name": "geometry",
                     "ap1ID": 180348,
                     "ap2ID": 230788
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 532510,
+                    "ap2ID": 202426
                 },
                 {
                     "ap1Name": "geometry",
