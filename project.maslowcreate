@@ -217,8 +217,8 @@
                 {
                     "atomType": "Extrude",
                     "name": "Extrude",
-                    "x": 288,
-                    "y": 156,
+                    "x": 332,
+                    "y": 157,
                     "uniqueID": 129563,
                     "ioValues": [
                         {
@@ -376,18 +376,10 @@
                     ]
                 },
                 {
-                    "atomType": "Difference",
-                    "name": "Difference",
-                    "x": 549,
-                    "y": 32,
-                    "uniqueID": 498995,
-                    "ioValues": []
-                },
-                {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 648,
-                    "y": 141,
+                    "x": 500,
+                    "y": 151,
                     "uniqueID": 748762,
                     "ioValues": [
                         {
@@ -403,6 +395,14 @@
                             "ioValue": 20
                         }
                     ]
+                },
+                {
+                    "atomType": "Difference",
+                    "name": "Difference",
+                    "x": 549,
+                    "y": 32,
+                    "uniqueID": 498995,
+                    "ioValues": []
                 },
                 {
                     "atomType": "Difference",
@@ -552,12 +552,6 @@
                     "ap2ID": 498995
                 },
                 {
-                    "ap1Name": "geometry",
-                    "ap2Name": "geometry2",
-                    "ap1ID": 171830,
-                    "ap2ID": 856659
-                },
-                {
                     "ap1Name": "gcode",
                     "ap2Name": "geometry",
                     "ap1ID": 650893,
@@ -565,15 +559,15 @@
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "geometry1",
-                    "ap1ID": 498995,
-                    "ap2ID": 856659
-                },
-                {
-                    "ap1Name": "geometry",
                     "ap2Name": "2D shape 193857",
                     "ap1ID": 748762,
                     "ap2ID": 507799
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry1",
+                    "ap1ID": 498995,
+                    "ap2ID": 856659
                 },
                 {
                     "ap1Name": "geometry",
