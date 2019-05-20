@@ -228,90 +228,6 @@
                     ]
                 },
                 {
-                    "atomType": "Translate",
-                    "name": "Translate",
-                    "x": 427,
-                    "y": 86,
-                    "uniqueID": 781792,
-                    "ioValues": [
-                        {
-                            "name": "xDist",
-                            "ioValue": 0
-                        },
-                        {
-                            "name": "yDist",
-                            "ioValue": 0
-                        },
-                        {
-                            "name": "zDist",
-                            "ioValue": 0.3
-                        }
-                    ]
-                },
-                {
-                    "atomType": "Translate",
-                    "name": "Translate",
-                    "x": 427,
-                    "y": 86,
-                    "uniqueID": 353580,
-                    "ioValues": [
-                        {
-                            "name": "xDist",
-                            "ioValue": 19.75
-                        },
-                        {
-                            "name": "yDist",
-                            "ioValue": 0
-                        },
-                        {
-                            "name": "zDist",
-                            "ioValue": 0.3
-                        }
-                    ]
-                },
-                {
-                    "atomType": "Translate",
-                    "name": "Translate",
-                    "x": 427,
-                    "y": 86,
-                    "uniqueID": 584247,
-                    "ioValues": [
-                        {
-                            "name": "xDist",
-                            "ioValue": 0
-                        },
-                        {
-                            "name": "yDist",
-                            "ioValue": 0
-                        },
-                        {
-                            "name": "zDist",
-                            "ioValue": 10.15
-                        }
-                    ]
-                },
-                {
-                    "atomType": "Translate",
-                    "name": "Translate",
-                    "x": 427,
-                    "y": 86,
-                    "uniqueID": 171830,
-                    "ioValues": [
-                        {
-                            "name": "xDist",
-                            "ioValue": -19.65
-                        },
-                        {
-                            "name": "yDist",
-                            "ioValue": 0
-                        },
-                        {
-                            "name": "zDist",
-                            "ioValue": 0.3
-                        }
-                    ]
-                },
-                {
                     "atomType": "Gcode",
                     "name": "Gcode",
                     "x": 379,
@@ -378,6 +294,90 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
+                    "x": 483,
+                    "y": 85,
+                    "uniqueID": 781792,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 0.3
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 483,
+                    "y": 85,
+                    "uniqueID": 353580,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 19.75
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 0.3
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 483,
+                    "y": 85,
+                    "uniqueID": 584247,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 10.15
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 483,
+                    "y": 85,
+                    "uniqueID": 171830,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": -19.65
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 0.3
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
                     "x": 498,
                     "y": 158,
                     "uniqueID": 748762,
@@ -395,14 +395,6 @@
                             "ioValue": 20
                         }
                     ]
-                },
-                {
-                    "atomType": "Difference",
-                    "name": "Difference",
-                    "x": 699,
-                    "y": 84,
-                    "uniqueID": 856659,
-                    "ioValues": []
                 },
                 {
                     "atomType": "Translate",
@@ -532,12 +524,6 @@
                     "ap2Name": "geometry",
                     "ap1ID": 650893,
                     "ap2ID": 222076
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "2D shape 853008",
-                    "ap1ID": 856659,
-                    "ap2ID": 507799
                 },
                 {
                     "ap1Name": "geometry",
