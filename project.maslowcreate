@@ -327,8 +327,8 @@
                 {
                     "atomType": "Extrude",
                     "name": "Extrude",
-                    "x": 534,
-                    "y": 246,
+                    "x": 599,
+                    "y": 243,
                     "uniqueID": 249330,
                     "ioValues": [
                         {
@@ -365,12 +365,29 @@
                             "ioValue": 10
                         },
                         {
-                            "name": "3D shape 226017",
+                            "name": "3D shape 288160",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 780,
+                    "y": 236,
+                    "uniqueID": 227431,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
                             "ioValue": 10
                         },
                         {
-                            "name": "3D shape 288160",
-                            "ioValue": 10
+                            "name": "zDist",
+                            "ioValue": 0
                         }
                     ]
                 },
@@ -469,15 +486,16 @@
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "3D shape 226017",
+                    "ap2Name": "geometry",
                     "ap1ID": 249330,
-                    "ap2ID": 542609
+                    "ap2ID": 227431
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "number or geometry",
                     "ap1ID": 542609
-                }
+                },
+                null
             ],
             "fileTypeVersion": 1
         }
