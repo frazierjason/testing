@@ -272,13 +272,13 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 377,
-                    "y": 231,
-                    "uniqueID": 675330,
+                    "x": 334,
+                    "y": 225,
+                    "uniqueID": 202426,
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": -19.65
+                            "ioValue": 0
                         },
                         {
                             "name": "yDist",
@@ -286,7 +286,7 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 10.15
+                            "ioValue": 0
                         }
                     ]
                 },
