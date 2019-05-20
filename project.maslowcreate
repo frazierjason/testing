@@ -371,7 +371,7 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 0.3
+                            "ioValue": 0
                         }
                     ]
                 },
@@ -424,10 +424,6 @@
                     "y": 154,
                     "uniqueID": 507799,
                     "ioValues": [
-                        {
-                            "name": "2D shape 853008",
-                            "ioValue": 10
-                        },
                         {
                             "name": "2D shape 673902",
                             "ioValue": 10
