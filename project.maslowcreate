@@ -257,6 +257,19 @@
                     ]
                 },
                 {
+                    "atomType": "Extrude",
+                    "name": "Extrude",
+                    "x": 314,
+                    "y": 135,
+                    "uniqueID": 715755,
+                    "ioValues": [
+                        {
+                            "name": "height",
+                            "ioValue": 0.75
+                        }
+                    ]
+                },
+                {
                     "atomType": "Gcode",
                     "name": "Gcode",
                     "x": 379,
