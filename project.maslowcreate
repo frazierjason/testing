@@ -131,8 +131,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 190,
-                    "y": 74,
+                    "x": 220,
+                    "y": 77,
                     "uniqueID": 245121,
                     "ioValues": [
                         {
