@@ -209,7 +209,7 @@
                         },
                         {
                             "name": "y length",
-                            "ioValue": 10
+                            "ioValue": 16
                         }
                     ]
                 },
@@ -251,6 +251,19 @@
                         },
                         {
                             "name": "zDist",
+                            "ioValue": 20
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Extrude",
+                    "name": "Extrude",
+                    "x": 165,
+                    "y": 285,
+                    "uniqueID": 681784,
+                    "ioValues": [
+                        {
+                            "name": "height",
                             "ioValue": 20
                         }
                     ]
@@ -320,6 +333,10 @@
                         {
                             "name": "3D shape 508114",
                             "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 226017",
+                            "ioValue": 10
                         }
                     ]
                 },
@@ -371,6 +388,12 @@
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
+                    "ap1ID": 582886,
+                    "ap2ID": 681784
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
                     "ap1ID": 202426,
                     "ap2ID": 365015
                 },
@@ -378,6 +401,12 @@
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 676021",
                     "ap1ID": 144847,
+                    "ap2ID": 542609
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 508114",
+                    "ap1ID": 681784,
                     "ap2ID": 542609
                 },
                 {
