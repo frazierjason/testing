@@ -440,6 +440,10 @@
                             "ioValue": 19.65
                         },
                         {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
                             "name": "zDist",
                             "ioValue": 10.15
                         }
@@ -599,7 +603,7 @@
                 },
                 {
                     "ap1Name": "gcode",
-                    "ap2Name": "yDist",
+                    "ap2Name": "geometry",
                     "ap1ID": 650893,
                     "ap2ID": 222076
                 },
