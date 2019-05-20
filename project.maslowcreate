@@ -338,6 +338,10 @@
                         {
                             "name": "3D shape 780536",
                             "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 793785",
+                            "ioValue": 10
                         }
                     ]
                 },
@@ -394,6 +398,12 @@
                 },
                 {
                     "ap1Name": "geometry",
+                    "ap2Name": "3D shape 780536",
+                    "ap1ID": 796758,
+                    "ap2ID": 542609
+                },
+                {
+                    "ap1Name": "geometry",
                     "ap2Name": "geometry",
                     "ap1ID": 202426,
                     "ap2ID": 365015
@@ -409,6 +419,11 @@
                     "ap2Name": "3D shape 195827",
                     "ap1ID": 230788,
                     "ap2ID": 542609
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "number or geometry",
+                    "ap1ID": 542609
                 }
             ],
             "fileTypeVersion": 1
