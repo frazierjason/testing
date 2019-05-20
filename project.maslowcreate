@@ -407,14 +407,6 @@
                 {
                     "atomType": "Difference",
                     "name": "Difference",
-                    "x": 682,
-                    "y": 29,
-                    "uniqueID": 664959,
-                    "ioValues": []
-                },
-                {
-                    "atomType": "Difference",
-                    "name": "Difference",
                     "x": 717,
                     "y": 72,
                     "uniqueID": 856659,
@@ -448,10 +440,6 @@
                     "y": 154,
                     "uniqueID": 507799,
                     "ioValues": [
-                        {
-                            "name": "2D shape 501726",
-                            "ioValue": 10
-                        },
                         {
                             "name": "2D shape 853008",
                             "ioValue": 10
@@ -566,18 +554,6 @@
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry2",
-                    "ap1ID": 353580,
-                    "ap2ID": 664959
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "2D shape 501726",
-                    "ap1ID": 584247,
-                    "ap2ID": 507799
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "geometry2",
                     "ap1ID": 171830,
                     "ap2ID": 856659
                 },
@@ -591,19 +567,13 @@
                     "ap1Name": "geometry",
                     "ap2Name": "geometry1",
                     "ap1ID": 498995,
-                    "ap2ID": 664959
+                    "ap2ID": 856659
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "2D shape 193857",
                     "ap1ID": 748762,
                     "ap2ID": 507799
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "geometry1",
-                    "ap1ID": 664959,
-                    "ap2ID": 856659
                 },
                 {
                     "ap1Name": "geometry",
