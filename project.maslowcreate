@@ -197,6 +197,27 @@
                     ]
                 },
                 {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 291,
+                    "y": 141,
+                    "uniqueID": 144847,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 20
+                        }
+                    ]
+                },
+                {
                     "atomType": "Extrude",
                     "name": "Extrude",
                     "x": 319,
@@ -376,6 +397,12 @@
                     "ap2Name": "geometry",
                     "ap1ID": 245121,
                     "ap2ID": 782761
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 722221,
+                    "ap2ID": 144847
                 },
                 {
                     "ap1Name": "geometry",
