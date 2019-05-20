@@ -325,14 +325,6 @@
                     ]
                 },
                 {
-                    "atomType": "Extrude",
-                    "name": "Extrude",
-                    "x": 405,
-                    "y": 162,
-                    "uniqueID": 622860,
-                    "ioValues": []
-                },
-                {
                     "atomType": "Gcode",
                     "name": "Gcode",
                     "x": 379,
@@ -386,8 +378,8 @@
                 {
                     "atomType": "Difference",
                     "name": "Difference",
-                    "x": 511,
-                    "y": 23,
+                    "x": 549,
+                    "y": 32,
                     "uniqueID": 498995,
                     "ioValues": []
                 },
@@ -490,12 +482,6 @@
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
-                    "ap1ID": 229410,
-                    "ap2ID": 622860
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "geometry",
                     "ap1ID": 489623,
                     "ap2ID": 782761
                 },
@@ -558,12 +544,6 @@
                     "ap2Name": "geometry",
                     "ap1ID": 782761,
                     "ap2ID": 584247
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "height",
-                    "ap1ID": 782761,
-                    "ap2ID": 622860
                 },
                 {
                     "ap1Name": "geometry",
