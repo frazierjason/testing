@@ -299,7 +299,7 @@
                     "ioValues": [
                         {
                             "name": "height",
-                            "ioValue": 10
+                            "ioValue": 20
                         }
                     ]
                 },
@@ -313,23 +313,6 @@
                         {
                             "name": "height",
                             "ioValue": 0.75
-                        }
-                    ]
-                },
-                {
-                    "atomType": "Assembly",
-                    "name": "Assembly",
-                    "x": 962,
-                    "y": 154,
-                    "uniqueID": 507799,
-                    "ioValues": [
-                        {
-                            "name": "2D shape 673902",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 654351",
-                            "ioValue": 10
                         }
                     ]
                 },
@@ -380,8 +363,9 @@
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "number or geometry",
-                    "ap1ID": 507799
+                    "ap2Name": "geometry",
+                    "ap1ID": 202426,
+                    "ap2ID": 365015
                 }
             ],
             "fileTypeVersion": 1
