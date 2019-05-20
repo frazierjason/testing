@@ -308,6 +308,23 @@
                     ]
                 },
                 {
+                    "atomType": "Rectangle",
+                    "name": "Rectangle",
+                    "x": 442,
+                    "y": 243,
+                    "uniqueID": 165004,
+                    "ioValues": [
+                        {
+                            "name": "x length",
+                            "ioValue": 40
+                        },
+                        {
+                            "name": "y length",
+                            "ioValue": 0.75
+                        }
+                    ]
+                },
+                {
                     "atomType": "Assembly",
                     "name": "Assembly",
                     "x": 641,
